@@ -1,0 +1,10 @@
+{
+  "name": "google-services-hub",
+  "version": "0.1.0",
+  "description": "All-in-one Claude Code plugin for Google services: AI (Gemini, Vertex AI, AI Studio), media generation (Veo, Imagen, Flow), cloud (Firebase, GCP, Apps Script, IDX, Colab), design (Stitch, Material Design), and Google Workspace APIs.",
+  "author": {
+    "name": "mertgoevse-wq"
+  },
+  "keywords": ["google", "gemini", "vertex-ai", "veo", "imagen", "firebase", "gcp", "stitch", "flow", "workspace", "media-generation"],
+  "license": "MIT"
+}

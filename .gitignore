@@ -1,0 +1,11 @@
+# Local credentials (never commit)
+.claude/*.local.md
+.env
+.env.*
+
+# Media output (optional)
+media/
+
+# OS
+.DS_Store
+Thumbs.db
