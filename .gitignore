@@ -1,5 +1,5 @@
 # Local credentials (never commit)
-.claude/*.local.md
+.claude/
 .env
 .env.*
 
@@ -8,4 +8,4 @@ media/
 
 # OS
 .DS_Store
-Thumbs.db.claude/
+Thumbs.db
